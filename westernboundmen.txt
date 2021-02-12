@@ -1,0 +1,10 @@
+wbm01 Sando(Shirt) 45 50 50 1700
+wbm02 Printed(Shirt) 45 48 48 1500
+wbm03 Roundn(Shirt) 32 45 45 1400
+wbm04 Pololo(Shirt) 45 47 50 1500
+wbm05 Strips(Shirt) 50 50 50 1200
+wbm06 Class(Jeans) 40 50 50 2000
+wbm07 Carpat(Jeans) 50 45 50 1800
+wbm08 Lower(Jeans) 45 50 50 1800
+wbm09 Cargo(Pants) 50 50 50 2500
+wbm10 Upper(Jacket) 45 45 40 5000

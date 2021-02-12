@@ -1,0 +1,9 @@
+lm01 Mandarin(Kurta) 43 45 35 1900
+lm02 Sideslit(Kurta) 45 50 45 1900
+lm03 Brocade(Kurta) 50 50 50 2300
+lm04 Straight(Kurta) 50 50 50 2000
+lm05 Class(Waistcoat) 45 50 50 2500
+lm06 Low(Waistcoat) 45 50 35 2000
+lm07 Balochi(Shalwar) 45 50 40 2100
+lm08 Cotton(Shalwar) 50 50 50 2000
+lm09 Blended(Shalwar) 45 50 45 1900

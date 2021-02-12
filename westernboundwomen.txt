@@ -1,0 +1,9 @@
+wbw01 Fril(Skirts) 45 50 45 1600
+wbw02 Polo(Shirts) 50 50 50 1500
+wbw03 Round(Shirt) 50 50 50 1300
+wbw04 Vinage(Tops) 50 50 50 1500
+wbw05 Tanker(Tops) 50 50 50 1200
+wbw06 Aurarer(Jeans) 50 50 50 2000
+wbw07 Stets(Jeans) 50 50 50 1700
+wbw08 Silva(Jeans) 50 50 50 1800
+wbw09 Wrang(Jeans) 50 50 50 1800

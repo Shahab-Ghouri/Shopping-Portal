@@ -1,0 +1,9 @@
+lw01 Casual(Trouser) 43 50 40 1200
+lw02 Plain(Trouser) 50 50 48 1000
+lw03 Palazzo(Pants) 50 50 45 2300
+lw04 Sailor(Pants) 50 50 45 2100
+lw05 Track(Pants) 45 50 45 2500
+lw06 Wideleg(Pants) 50 50 45 2000
+lw07 Tailcut(Kurti) 45 50 45 2100
+lw08 Dhoti(Kurti) 50 50 45 2500
+lw09 Slit(Kurti) 40 50 40 2200
